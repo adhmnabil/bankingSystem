@@ -1,0 +1,14 @@
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.AssemblyInfoInputs.cache
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.AssemblyInfo.cs
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.csproj.CoreCompileInputs.cache
+E:\searchErrorTask\searchErrorTask\bin\Debug\net8.0\searchErrorTask.exe
+E:\searchErrorTask\searchErrorTask\bin\Debug\net8.0\searchErrorTask.deps.json
+E:\searchErrorTask\searchErrorTask\bin\Debug\net8.0\searchErrorTask.runtimeconfig.json
+E:\searchErrorTask\searchErrorTask\bin\Debug\net8.0\searchErrorTask.dll
+E:\searchErrorTask\searchErrorTask\bin\Debug\net8.0\searchErrorTask.pdb
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.dll
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\refint\searchErrorTask.dll
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.pdb
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\searchErrorTask.genruntimeconfig.cache
+E:\searchErrorTask\searchErrorTask\obj\Debug\net8.0\ref\searchErrorTask.dll
